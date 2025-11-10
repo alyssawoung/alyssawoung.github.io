@@ -17,3 +17,22 @@ title: "Alyssa Woung | Business Analytics Portfolio"
     <a href="/projects.html" style="background:#c4c4c4;color:#181718;padding:8px 18px;border-radius:8px;text-decoration:none;font-weight:bold;">Featured Projects</a>
   </div>
 </div>
+
+
+---
+layout: default
+title: "About | Alyssa Woung"
+permalink: /about.html
+---
+
+## About Me
+
+I’m passionate about uncovering insights that make an impact. I use **Tableau**, **R programming**, and Microsoft Office tools to solve business problems, visualize data, and communicate results with clarity and creativity.
+
+**Core Skills**
+- Data visualization (Tableau, PowerBI)
+- Statistical analysis (R programming)
+- Microsoft Office (Excel, PowerPoint, Word)
+- Interactive dashboards & reports
+
+*Alternative, data-driven & creative.*
