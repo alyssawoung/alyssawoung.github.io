@@ -35,4 +35,26 @@ A data visualization project using Tableau that analyzes trends, locations, and 
 - Sales Dashboard using Excel
 - Survey Data Analysis (R, Excel)
 
+---
+layout: default
+title: "Contact | Alyssa Woung"
+permalink: /contact.html
+---
+
+## Contact
+
+Interested in working together or learning more?  
+Find me on [LinkedIn](https://www.linkedin.com/in/alysswoung) or send an email below.
+
+<form action="mailto:alyssa.email.placeholder@example.com" method="POST" enctype="text/plain">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name" style="width:80%; margin-bottom:1rem;"><br>
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email" style="width:80%; margin-bottom:1rem;"><br>
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message" rows="5" style="width:80%;"></textarea><br>
+  <button type="submit" style="margin-top:1rem; background:#fab1e0; color:#181718; padding:8px 18px; border-radius:8px; font-weight:bold;">Send</button>
+</form>
+
+
 *More details & links available on request.*
