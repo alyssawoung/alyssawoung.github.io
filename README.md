@@ -30,7 +30,7 @@ permalink: /about.html
 I’m passionate about uncovering insights that make an impact. I use **Tableau**, **R programming**, and Microsoft Office tools to solve business problems, visualize data, and communicate results with clarity and creativity.
 
 **Core Skills**
-- Data visualization (Tableau, PowerBI)
+- Data visualization (Tableau)
 - Statistical analysis (R programming)
 - Microsoft Office (Excel, PowerPoint, Word)
 - Interactive dashboards & reports
