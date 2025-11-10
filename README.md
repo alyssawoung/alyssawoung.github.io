@@ -58,3 +58,54 @@ Find me on [LinkedIn](https://www.linkedin.com/in/alysswoung) or send an email b
 
 
 *More details & links available on request.*
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', Arial, sans-serif;
+  background: linear-gradient(135deg, #efb9df, #181718 70%);
+  color: #eceded;
+  min-height: 100vh;
+}
+main {
+  max-width: 700px;
+  margin: 3rem auto 2rem;
+  background: rgba(30, 28, 38, 0.95);
+  border-radius: 18px;
+  padding: 2rem 2.5rem;
+  box-shadow: 0 2px 12px #fab1e020;
+}
+.navbar {
+  background: #181718;
+  box-shadow: 0 2px 8px #0004;
+  padding: 0.7em 0;
+  text-align: center;
+}
+.navbar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-flex;
+  gap: 1.8em;
+}
+.navbar li {
+  display: inline;
+}
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 0.4em 1.1em;
+  border-radius: 7px;
+  transition: background 0.18s, color 0.15s;
+}
+.navbar a.active, .navbar a:hover {
+  background: #fab1e0;
+  color: #181718;
+}
+@media (max-width: 600px) {
+  main { padding: 1em 0.3em; }
+  .navbar ul { gap: 0.8em; }
+}
