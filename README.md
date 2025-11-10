@@ -35,10 +35,6 @@ A data visualization project using Tableau that analyzes trends, locations, and 
 - Sales Dashboard using Excel
 - Survey Data Analysis (R, Excel)
 
----
-layout: default
-title: "Contact | Alyssa Woung"
-permalink: /contact.html
----
+
 
 
