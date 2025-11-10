@@ -17,3 +17,22 @@ title: "Alyssa Woung | Business Analytics Portfolio"
     <a href="/projects.html" style="background:#c4c4c4;color:#181718;padding:8px 18px;border-radius:8px;text-decoration:none;font-weight:bold;">Featured Projects</a>
   </div>
 </div>
+
+
+---
+layout: default
+title: "Projects | Alyssa Woung"
+permalink: /projects.html
+---
+
+## Projects
+
+### [Mass Shooting Analysis (Tableau)](https://public.tableau.com/views/TableauProject-DSS315/MassShootingAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+A data visualization project using Tableau that analyzes trends, locations, and statistics about mass shooting incidents to bring actionable insight to decision makers.
+
+### Additional Projects
+- Customer Churn Predictor (R & Tableau)
+- Sales Dashboard using Excel
+- Survey Data Analysis (R, Excel)
+
+*More details & links available on request.*
